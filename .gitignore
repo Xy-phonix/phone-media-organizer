@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+_thumbs/
+_gallery/
+manifest.json
+RAW/
+Image/
+Video/
+Audio/
+NotUseful/
+demo/
+testdata/
+bigtest/
+.DS_Store
